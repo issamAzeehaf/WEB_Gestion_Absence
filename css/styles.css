@@ -1,0 +1,22 @@
+.gnavbar {
+    background: #AA076B;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #61045F, #AA076B);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #61045F, #AA076B);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.hgr {
+    background-color: #350134;
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #61045F;
+    width: 50%;
+    /* Could be more or less, depending on screen size */
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{A05893EC-4E1A-4C1B-8A73-F055DB4D105C}" Name="ModeleConceptuelDonnees_1" Type="{1E597170-9350-11D1-AB3C-0020AF71E433}" URL="../../Downloads/mini projet part dyal amine/mini projet part dyal amine/MCD_MP.mcd"/>
+		<Model Expanded="Yes" ID="{5F148E72-9144-48EB-B7A5-EB6B9491E73C}" Name="ModeleConceptuelDonnees_1" Type="{5F45F978-C4F3-4E35-A3FC-AF3318663A0F}" URL="../../Downloads/mini projet part dyal amine/mini projet part dyal amine/MLD_MP.mld"/>
+		<Model Expanded="Yes" ID="{16D9E592-9C7B-4BC2-AE6A-3FD0A3118E63}" Name="ModeleConceptuelDonnees_1" Selected="Yes" Type="{CDE44E21-9669-11D1-9914-006097355D9B}" URL="../../Downloads/mini projet part dyal amine/mini projet part dyal amine/MPD_MP.mpd"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
